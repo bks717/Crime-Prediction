@@ -81,3 +81,5 @@ python crime_prediction.py
 
 
 View metrics, predictions, and the India crime risk map.
+<img width="1911" height="967" alt="image" src="https://github.com/user-attachments/assets/efb8dc3c-c390-49ca-9453-e6ae238dcf24" />
+
